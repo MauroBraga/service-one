@@ -1,4 +1,4 @@
-package br.com.mrb.serviceone;
+package br.com.mrb.service.tasks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

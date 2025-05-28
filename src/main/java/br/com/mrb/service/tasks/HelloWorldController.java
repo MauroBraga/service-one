@@ -1,4 +1,4 @@
-package br.com.mrb.serviceone;
+package br.com.mrb.service.tasks;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
